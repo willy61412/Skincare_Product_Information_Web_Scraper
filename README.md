@@ -5,18 +5,21 @@ This repository contains six web scraper files that extract detailed product dat
 ### Contributions
 
 These files provide valuable insights into the differences in product lines among various brands, aiding in the development of effective product optimization strategies. 
+
 This information can help companies to:
 
-- Compare product portfolio to evaluate whether they have competitive price points across similar products.
-- Identify key differences in ingredients and benefits, and discover unique products or ingredients that competitors offer but they do not.
-- Assess differences in product categories by analyzing what different product types exist between their products and competitors' products.
-- Evaluate consumer feedback differences to understand how consumer reviews and ratings vary between their products and those of competitors.
-
+- Compare product portfolios by evaluating whether they have competitive price points across similar products.
+- Identify key differences by discovering unique ingredients or benefits that competitors offer but they do not.
+- Assess product categories by analyzing the variety of product types between their products and those of competitors.
+- Evaluate consumer feedback to understand how reviews and ratings vary between their products and those of competitors.
+  
 By leveraging these insights, companies can enhance their product offerings and improve overall performance.
 
 ### Data Overview
 
-The merged and organized dataset comprises 351 products, including information such as product names, prices, ingredients, benefits, and skin types.
+The merged and organized dataset comprises 351 products, including information such as product titles, prices, ingredients, skin types, reviews stars and sizes.
+
+
 The latest update was in May 2024.
 
 <br>
@@ -27,6 +30,8 @@ The latest update was in May 2024.
 ### Data Usage
 
 After leveraging Python for extensive web scraping, the dataset was further processed using Tableau Prep to split and pivot the data. 
+
+
 This enables the creation of visualizations in Tableau, facilitating a comparative analysis of key differences among the products from the six companies.
 
 <br>
